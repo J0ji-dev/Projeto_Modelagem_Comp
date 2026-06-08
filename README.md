@@ -89,6 +89,5 @@ python src/recursiva.py "OPEN OPEN COMMIT COMMIT CLOSE CLOSE"
 
 ## Equipe
 
-- [Nome 1]
-- [Nome 2]
-- [Nome 3]
+- João Antônio de Souza Vieira Sandes
+- Gustavo Godoy
